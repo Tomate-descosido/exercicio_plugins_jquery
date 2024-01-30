@@ -1,0 +1,15 @@
+*{margin: 0;padding: 0;box-sizing: border-box;}
+
+body{background-color: rgb(255, 255, 232);}
+
+.conteiner{max-width: 360px;width: 100%;margin: 0 auto;}
+
+.conteiner h1{padding: 12px 0;font-size: 32px;font-weight: bold;text-transform: uppercase;}
+
+button{display: block;width: 100%;padding: 8px 0;border: none;background-color: rgb(218, 248, 148);font-size: 16px;font-weight: bold;font-style: italic;cursor: pointer;border-radius: 6px;}
+
+.form-campo{margin-bottom: 16px;}
+
+.form-campo label{font-weight: bold;display: block;}
+
+.form-campo input{width: 100%;display: block;padding: 4px;}
